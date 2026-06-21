@@ -112,6 +112,11 @@ Ticketing system for customer support management.
 
 ---
 
+### 🤖 Jarvis AI 
+A simple voice assistant built in Python with speech recognition.
+
+🔗 https://github.com/AlaaTurki/Python-jarvis
+
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AlaaTurki&theme=tokyonight&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
