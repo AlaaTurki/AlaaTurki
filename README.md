@@ -1,105 +1,91 @@
 <div align="center">
-
-# 👋 Hi, I'm Alaa Turki
-
-### ERP Odoo Developer • Java Full-Stack Engineer • Data Analyst
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=ERP+Odoo+Developer;Java+%7C+Spring+Boot+%7C+Angular;Data+Analytics+%7C+Business+Intelligence;Docker+%7C+AWS+%7C+Cloud;Turning+Business+Problems+into+Software+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alaa+Turki!;" />
+</div>
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alaa%20Turki-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alaa-turki/)
-[![GitHub](https://img.shields.io/badge/GitHub-AlaaTurki-black?style=for-the-badge&logo=github)](https://github.com/AlaaTurki)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=microsoftoutlook)](mailto:alaatrk@outlook.com)
+<div align="center">
+
+### 🚀 ERP Odoo Developer | Java Full-Stack Engineer | Data Analyst
+
+[![Profile Views](https://komarev.com/ghpvc/?username=AlaaTurki&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/AlaaTurki)
+[![GitHub followers](https://img.shields.io/github/followers/AlaaTurki?style=flat&label=Followers&color=0e75b6)](https://github.com/AlaaTurki)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-💼 ERP Odoo Developer with experience building enterprise business solutions  
+I'm a passionate **software engineer & ERP developer** specializing in **Odoo, Java, and full-stack development**, with a strong interest in **Data Analytics & Business Intelligence**.
 
-💻 Full-Stack Developer working with:
-- Java / Spring Boot
-- Angular
-- Vue.js
-- Node.js
+I enjoy building **real-world business solutions**, automating workflows, and transforming raw data into meaningful insights.
 
-📊 Passionate about Data Analytics & BI:
-- Data Visualization
-- Business Intelligence
-- Data-driven decision making
-
-☁️ Currently exploring:
-- AWS Cloud
-- Docker & Kubernetes
-- Data Engineering
-- Machine Learning
-
-🎯 Goal:
-Become a top-tier **Data Analyst & Software Engineer** bridging business and technology.
+- 🔭 Currently working on **ERP systems, Full-stack apps & AI integrations**
+- 🌱 Learning **Data Engineering, Machine Learning & Cloud (AWS)**
+- 👯 Looking to collaborate on **Open Source & Data-driven projects**
+- 💬 Ask me about **Java, Spring Boot, Angular, Odoo, MongoDB, SQL**
+- 📫 Reach me at: **alaatrk@outlook.com**
+- ⚡ Fun fact: I turn business problems into software solutions 😄
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![TypeScript](https://skillicons.dev/icons?i=typescript)
-![PHP](https://skillicons.dev/icons?i=php)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frontend
-![Angular](https://skillicons.dev/icons?i=angular)
-![Vue](https://skillicons.dev/icons?i=vue)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend
-![Spring](https://skillicons.dev/icons?i=spring)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 ### Databases
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### DevOps & Cloud
-![Docker](https://skillicons.dev/icons?i=docker)
-![AWS](https://skillicons.dev/icons?i=aws)
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Git](https://skillicons.dev/icons?i=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ## 🔥 Featured Projects
 
 ### ⚽ World Cup 2026 Prediction
-Machine learning project predicting football match outcomes using historical data.
+Machine learning model for predicting football match outcomes using data analytics.
 
 🔗 https://github.com/AlaaTurki/world-cup-2026-prediction
 
 ---
 
 ### 🤖 Gemini Chatbot
-AI-powered chatbot using Google's Gemini API.
+AI chatbot using Google Gemini API.
 
 🔗 https://github.com/AlaaTurki/gemini-chatbot
 
 ---
 
 ### 🚗 Covoiturage App
-Carpooling platform with ride management and reservations.
+Carpooling platform for ride sharing and reservations.
 
 🔗 https://github.com/AlaaTurki/covoiturage-app
 
 ---
 
 ### 🧠 MEAN Stack Projects
-Full-stack applications using MongoDB, Express, Angular, Node.js.
+Full-stack apps built with MongoDB, Express, Angular, Node.js.
 
 🔗 https://github.com/AlaaTurki/Mean_stack
 
@@ -117,60 +103,67 @@ A simple voice assistant built in Python with speech recognition.
 
 🔗 https://github.com/AlaaTurki/Python-jarvis
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlaaTurki&theme=tokyonight&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlaaTurki&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlaaTurki&theme=tokyonight" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlaaTurki&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaTurki&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaTurki&layout=compact&theme=tokyonight" />
-</p>
+</div>
 
 ---
 
 ## 📈 Contribution Graph
 
-[![Alaa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlaaTurki&theme=tokyo-night)](https://github.com/AlaaTurki)
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlaaTurki&theme=tokyo-night)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=AlaaTurki&theme=tokyonight&row=2&column=4)
+
+</div>
 
 ---
 
 ## 🐍 Contribution Snake
 
+<div align="center">
+
 ![snake gif](https://github.com/AlaaTurki/AlaaTurki/blob/output/github-contribution-grid-snake-dark.svg)
 
----
-
-## 🎓 Certifications
-
-- IBM Data Science Professional Certificate  
-- Google Data Analytics Professional Certificate  
-- Google IT Automation with Python  
-- Cisco CCNA  
-- Git & GitHub Professional Certificate  
+</div>
 
 ---
 
-## ⚡ Fun Fact
+## 🎯 Focus Areas
 
-I enjoy turning complex business processes into simple software solutions and transforming raw data into actionable insights.
+- ERP Systems (Odoo)
+- Full-Stack Development
+- Data Analytics & BI
+- Cloud & DevOps
+- Machine Learning
+
+---
+
+## ⚡ Quote
+
+> “Turning business problems into scalable software solutions.”
 
 ---
 
 <div align="center">
 
 ### 🚀 Building Software • Automating Businesses • Analyzing Data
-
-⭐ If you like my work, consider starring my repositories!
 
 </div>
